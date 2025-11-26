@@ -84,3 +84,6 @@ window.addEventListener('scroll', () => {
     dashboardSection.style.transform = "translateY(0)";
   }
 });
+//home 2
+
+
